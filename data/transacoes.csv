@@ -1,0 +1,6 @@
+id,data,tipo,categoria,descricao,valor,pagamento,recorrente
+1,2026-05-01,Receita,Salário,Salário mensal,4500.00,PIX,Sim
+2,2026-05-02,Despesa,Moradia,Aluguel,-1500.00,Boleto,Sim
+3,2026-05-03,Despesa,Alimentação,Supermercado,-320.50,Cartão de Crédito,Não
+4,2026-05-05,Despesa,Lazer,Cinema,-45.00,PIX,Não
+5,2026-05-07,Receita,Freelance,Projeto freelancer,800.00,Transferência,Não

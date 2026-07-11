@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "objetivo": "Comprar notebook",
+    "valorMeta": 4500.00,
+    "valorAtual": 1800.00,
+    "prazo": "2026-12-31"
+  },
+  {
+    "id": 2,
+    "objetivo": "Reserva de emergência",
+    "valorMeta": 10000.00,
+    "valorAtual": 3200.00,
+    "prazo": "2027-06-30"
+  }
+]

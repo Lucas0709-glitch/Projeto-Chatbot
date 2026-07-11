@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "tipo": "Gasto Elevado",
+    "mensagem": "Você gastou 35% a mais com alimentação este mês.",
+    "prioridade": "Média"
+  },
+  {
+    "id": 2,
+    "tipo": "Vencimento",
+    "mensagem": "Sua assinatura da Netflix vence em 3 dias.",
+    "prioridade": "Alta"
+  }
+]

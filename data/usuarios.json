@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nome": "Carlos Silva",
+    "idade": 27,
+    "rendaMensal": 4500.00,
+    "perfilFinanceiro": "Moderado",
+    "objetivoPrincipal": "Economizar"
+  },
+  {
+    "id": 2,
+    "nome": "Ana Souza",
+    "idade": 32,
+    "rendaMensal": 6200.00,
+    "perfilFinanceiro": "Conservador",
+    "objetivoPrincipal": "Quitar dívidas"
+  }
+]
